@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **himanshubhoir25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14KMrV2DoVv-Bu8tiS9HOToaLHfJjq3vN/view?usp=sharing](https://drive.google.com/file/d/14KMrV2DoVv-Bu8tiS9HOToaLHfJjq3vN/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1zS8XAaGc4Ll9EGOuryRTmvQwjblxZwNS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
