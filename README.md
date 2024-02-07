@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GDSC-MGMCET Portfolio**
 
-- 💬 Ask me about **React, Vite, NodeJS, Java, DSA, MongoDB, MySQL**
+- 💬 Ask me about **React, Angular, NodeJS, Java, SpringBoot, DSA, MongoDB, MySQL**
 
 - 📫 How to reach me **himanshubhoir25@gmail.com**
 
