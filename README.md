@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshubhoir&label=Profile%20views&color=0e75b6&style=flat" alt="himanshubhoir" /> </p>
 
-- 🔭 I’m currently working on **GDSC-MGMCET Portfolio**
+- 🔭 I’m currently working on **Frontend Development System Design**
 
 - 💬 Ask me about **React, Angular, NodeJS, Java, SpringBoot, DSA, MongoDB, MySQL**
 
