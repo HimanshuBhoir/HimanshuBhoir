@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Bhoir</h1>
 <h3 align="center">Passionate Full Stack developer with a keen interest in creating beautiful, responsive applications and competitive programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshubhoir&label=Profile%20views&color=0e75b6&style=flat" alt="himanshubhoir" /> </p>
 
 - 🔭 I’m currently working on **Frontend Development System Design**
 
